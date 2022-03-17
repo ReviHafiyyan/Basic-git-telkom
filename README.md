@@ -1,2 +1,2 @@
-# Basic-git-telkom
+# Hello Project - Raden Muhammad Revi Hafiyyan
 optional description
